@@ -1,6 +1,6 @@
-## Hi there, I'm Toyin. 👋
+# Hi there, I'm Toyin. 👋
 
-### The best things come from living outside of your comfort zone
+## The best things come from living outside of your comfort zone
 
 I am Toyin Onagoruwa 🙋🏻‍♂️, a Software Engineer, Botanist, and a Data Scientist.
 
