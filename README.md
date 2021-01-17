@@ -1,14 +1,17 @@
-### Hi there, I'm Toyin. 👋
+## Hi there, I'm Toyin. 👋
 
-## I'm a Software Engineer, Botanist, Blogger, and Data Scientist
+### The best things come from living outside of your comfort zone
 
-- 🔭 I’m currently working on ...
+I am Toyin Onagoruwa 🙋🏻‍♂️, a Software Engineer, Botanist, and a Data Scientist.
+
 - 🌱 I’m currently learning Python, Java, C#, React, Node JS, Spring Boot, MySQL
 - 👯 I’m looking to collaborate on creating content!
 - 🤔 I’m looking for help with Java design patterns
 - 💬 Ask me about Java, Python for data science
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have an undergraduate degree in Applied Botany from the university of first choice ofcourse 🙃
+
+### Connect with Me 🤝🏻
 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
