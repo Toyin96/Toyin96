@@ -4,7 +4,7 @@
 
 I am Toyin Onagoruwa 🙋🏻‍♂️, a Software Engineer, Botanist, and a Data Scientist.
 
-- 🌱 I’m currently learning Python, Java, C#, React, Node JS, Spring Boot, and MySQL
+- 🌱 I’m currently learning Python, Java, React, Node JS, Spring Boot, and MySQL
 - 👯 I’m looking to collaborate on creating content for my blog!
 - 🤔 I’m looking for help with Java design patterns
 - 💬 Ask me about Java, Python for data science
@@ -30,7 +30,6 @@ I am Toyin Onagoruwa 🙋🏻‍♂️, a Software Engineer, Botanist, and a Dat
 <a href="https://www.gnu.org/"><img alt="GNU" src='https://simpleicons.org/icons/gnu.svg' width='30'/></a>
 <a href="https://www.gnu.org/software/bash/"><img alt="GNU Bash" src='https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg' width='30'/></a>
 <a href="https://manjaro.org/"><img alt="Manjaro" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/512px-Manjaro-logo.svg.png' width='30'/></a>
-<a href="https://www.raspberrypi.org/"><img alt="Raspberry Pi" src='https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg' width='30'/></a>
 <a href="https://www.python.org/"><img alt="Python" src='https://www.vectorlogo.zone/logos/python/python-icon.svg' width='30'/></a>
 <a href="https://scikit-learn.org"><img alt="Scikit-learn" src='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg' width='30'/><a href="https://xgboost.ai/"><img alt="XGBoost" src='https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png' width='30'/><a href="https://www.tensorflow.org/"><img alt="Tensorflow" src='https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg' width='30'/></a>
 <a href="https://www.keras.io/"><img alt="Keras" src='https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/keras.svg' width='30'/></a>
