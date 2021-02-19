@@ -2,9 +2,9 @@
 
 ## “Outside of your comfort zone is where the magic happens 🌎” — Anonymous 
 
-I am Toyin Onagoruwa 🙋🏻‍♂️, a Botanist, Software Engineer, and a Data Scientist.
+I am Toyin Onagoruwa 🙋🏻‍♂️, a wannabe Software Engineer and Data Scientist.
 
-- 🌱 I’m currently learning Python, Java, React, Node JS, Spring Boot, and MySQL
+- 🌱 I’m currently learning Python, Java as part of my program requirements. Aside that I'm learng HTML, CSS, and JavaScript personally.
 - 👯 I’m looking to collaborate on creating content for my blog!
 - 🤔 I’m looking for help with Python data science libraries and Java design patterns
 - 💬 Ask me about Java, Python for data science
@@ -15,14 +15,12 @@ I am Toyin Onagoruwa 🙋🏻‍♂️, a Botanist, Software Engineer, and a Dat
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
 
 [![Toyin's github stats](https://github-readme-stats.vercel.app/api?username=Toyin96)](https://github.com/Toyin96/github-readme-stats)
 
 [youtube]: https://www.youtube.com/channel/UCGbaIhyFcY9nsPyDmkIVkmA
 [twitter]: https://twitter.com/onagoruwatoyin9
 [instagram]: https://www.instagram.com/sire_acidalia/
-[linkedin]: https://www.linkedin.com/in/toyin-onagoruwa-aesm-32a631143/
 
 ### Technologies
 
