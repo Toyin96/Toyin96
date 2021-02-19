@@ -2,14 +2,14 @@
 
 ## “Outside of your comfort zone is where the magic happens 🌎” — Anonymous 
 
-I am Toyin Onagoruwa 🙋🏻‍♂️, a Software Engineer, Botanist, and a Data Scientist.
+I am Toyin Onagoruwa 🙋🏻‍♂️, a Botanist, and an aspiring software engineer and Data Scientist.
 
 - 🌱 I’m currently learning Python, Java, React, Node JS, Spring Boot, and MySQL
 - 👯 I’m looking to collaborate on creating content for my blog!
 - 🤔 I’m looking for help with Java design patterns
 - 💬 Ask me about Java, Python for data science
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have an undergraduate degree in Applied Botany from the university of first choice of course 🙃
+- ⚡ Fun fact: I have an undergraduate degree in Applied Botany from the university of first choice of course (still undergoing MSc for environmental science with data science) 🙃
 
 ### Connect with Me 🤝🏻
 
