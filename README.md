@@ -24,7 +24,6 @@ I am Toyin Onagoruwa 🙋🏻‍♂️, a wannabe Software Engineer and Data Sci
 
 ### Technologies
 
-<a href="https://www.gnu.org/"><img alt="GNU" src='https://simpleicons.org/icons/gnu.svg' width='30'/></a>
 <a href="https://www.gnu.org/software/bash/"><img alt="GNU Bash" src='https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg' width='30'/></a>
 <a href="https://manjaro.org/"><img alt="Manjaro" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/512px-Manjaro-logo.svg.png' width='30'/></a>
 <a href="https://www.python.org/"><img alt="Python" src='https://www.vectorlogo.zone/logos/python/python-icon.svg' width='30'/></a>
