@@ -4,7 +4,7 @@
 
 I am Toyin Onagoruwa 🙋🏻‍♂️, a wannabe Software Engineer and Data Scientist.
 
-- 🌱 I’m currently learning Python, Java, and Javascript as part of my program requirements. Aside that I'm learng Golang personally.
+- 🌱 I’m currently learning Python, Java, and Javascript as part of my program requirements. Aside that I'm learning Golang personally.
 - 👯 I’m looking to collaborate on creating content for my blog!
 - 🤔 I’m looking for help with software design patterns and system design
 - 💬 Ask me about Python, Java, and Golang
