@@ -2,7 +2,7 @@
 
 ## “Outside of your comfort zone is where the magic happens 🌎” — Anonymous 
 
-I am Toyin Onagoruwa 🙋🏻‍♂️, a wannabe Software Engineer and Data Scientist.
+I am Toyin Onagoruwa 🙋🏻‍♂️, a Software Engineer and Data Scientist.
 
 - 🌱 I’m currently learning Python, Java, and Javascript as part of my program requirements. Aside that I'm learning Golang personally.
 - 👯 I’m looking to collaborate on creating content for my blog!
