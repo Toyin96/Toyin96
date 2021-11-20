@@ -2,7 +2,7 @@
 
 ## “outré, its the renaissance era... ” — Toyin M. 
 
-I am Toyin Onagoruwa 🙋🏻‍♂️, one weird Software Engineer.
+I am Toyin Onagoruwa 🙋🏻‍♂️, a wannabe Software Engineer.
 
 - 🌱 I’m currently learning Python, Java, and Javascript as part of my program requirements. Aside that I'm learning Golang personally.
 - 👯 I’m looking to collaborate on creating content for my blog!
